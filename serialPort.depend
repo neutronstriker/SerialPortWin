@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1410391245 source:c:\users\neutron\documents\c++\serialport\main.c
+	<windows.h>
+	<stdio.h>
+
